@@ -1,0 +1,9 @@
+21:19:49 **** Incremental Build of configuration Debug for project sample input ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample input.o" "..\\src\\sample input.c" 
+gcc -o "sample input.exe" "src\\sample input.o" 
+C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file sample input.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+
+21:19:50 Build Failed. 1 errors, 0 warnings. (took 1s.99ms)
+

@@ -1,0 +1,7 @@
+02:38:13 **** Incremental Build of configuration Debug for project assignment-day2-2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assignment-day2-2.o" "..\\src\\assignment-day2-2.c" 
+gcc -o assignment-day2-2.exe "src\\assignment-day2-2.o" 
+
+02:38:14 Build Finished. 0 errors, 0 warnings. (took 930ms)
+

@@ -1,0 +1,7 @@
+17:45:43 **** Rebuild of configuration Debug for project arraysum.c ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\arraysum.c.o" "..\\src\\arraysum.c.c" 
+gcc -o arraysum.c.exe "src\\arraysum.c.o" 
+
+17:45:44 Build Finished. 0 errors, 0 warnings. (took 770ms)
+
