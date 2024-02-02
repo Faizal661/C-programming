@@ -32,14 +32,14 @@ int main(void) {
 	}
 	space=2;
 
-	for(i=n-1;i>0;i--){
-			for(j=0;j<i;j++){
+	for(i=1;i<n;i++){
+			for(j=i;j<n;j++){
 			    printf("*");
 			}
 			for(k=1;k<=space;k++){
 				printf(" ");
 			}
-			for(j=0;j<i;j++){
+			for(j=i;j<n;j++){
 			    printf("*");
 			}
 			printf("\n");

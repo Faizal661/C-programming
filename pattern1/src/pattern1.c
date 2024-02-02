@@ -12,11 +12,11 @@
 #include <stdlib.h>
 
 int main(void) {
-	int i,j,k;
-	for(i=1;i<10;i++){
-		for(j=0;j<(i*2)-1;j++){
-			if(j==0){
-			for(k=10;k>i;k--){
+	int i,j,k,n=10;
+	for(i=1;i<=n;i++){
+		for(j=1;j<=(i*2)-1;j++){
+			if(j==1){
+			for(k=i;k<=n;k++){
 
 				printf(" ");
 			}

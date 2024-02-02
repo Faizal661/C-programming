@@ -1,6 +1,6 @@
 /*
  ============================================================================
- Name        : sum.c
+ Name        : EvenNumbers.c
  Author      : 
  Version     :
  Copyright   : Your copyright notice
@@ -9,13 +9,18 @@
  */
 
 #include <stdio.h>
-
+#include <stdlib.h>
 
 int main(void) {
-	int a,b,sum;
-	printf("Enter two numbers:");
-	scanf("%d%d",&a,&b);
-	sum=a+b;
-	printf("Sum of %d and %d is %d",a,b,sum);
-	return 0;
+	int i,number;
+	setbuf(stdout,NULL);
+	printf("Enter limit :\n");
+	scanf("%d",&number);
+	printf("\nEven numbers are :\n");
+	for(i=1;i<=number;i++){
+		if(i%2==0){
+			printf("%d\n",i);
+		}
+	}
+	return EXIT_SUCCESS;
 }

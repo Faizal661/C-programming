@@ -1,7 +1,7 @@
-17:45:37 **** Rebuild of configuration Debug for project arraysearch ****
+21:04:25 **** Rebuild of configuration Debug for project arraysearch ****
 Info: Internal Builder is used for build
 gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\arraysearch.o" "..\\src\\arraysearch.c" 
 gcc -o arraysearch.exe "src\\arraysearch.o" 
 
-17:45:42 Build Finished. 0 errors, 0 warnings. (took 5s.475ms)
+21:04:26 Build Finished. 0 errors, 0 warnings. (took 1s.30ms)
 

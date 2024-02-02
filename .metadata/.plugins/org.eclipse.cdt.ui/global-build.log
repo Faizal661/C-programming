@@ -1,13 +1,212 @@
-02:22:56 **** Rebuild of configuration Debug for project switch-case ****
+22:40:49 **** Rebuild of configuration Debug for project pattern1 ****
 Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\switch-case.o" "..\\src\\switch-case.c" 
-gcc -o switch-case.exe "src\\switch-case.o" 
-Info: Nothing to build for switch-case
-Info: Nothing to build for switch-case
-Info: Nothing to build for switch-case
-Info: Nothing to build for switch-case
-Info: Nothing to build for switch-case
-Info: Nothing to build for switch-case
-02:27:56 **** Building Selected Files of configuration Debug for project assignment-day3-3 ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern1.o" "..\\src\\pattern1.c" 
+gcc -o pattern1.exe "src\\pattern1.o" 
+Info: Nothing to build for pattern1
+22:41:25 **** Rebuild of configuration Debug for project pattern4 ****
 Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assignment-day3-3.o" "..\\src\\assignment-day3-3.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern4.o" "..\\src\\pattern4.c" 
+gcc -o pattern4.exe "src\\pattern4.o" 
+22:41:36 **** Incremental Build of configuration Debug for project pattern4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern4.o" "..\\src\\pattern4.c" 
+gcc -o pattern4.exe "src\\pattern4.o" 
+22:43:02 **** Incremental Build of configuration Debug for project pattern4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern4.o" "..\\src\\pattern4.c" 
+gcc -o pattern4.exe "src\\pattern4.o" 
+22:43:14 **** Incremental Build of configuration Debug for project pattern4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern4.o" "..\\src\\pattern4.c" 
+gcc -o pattern4.exe "src\\pattern4.o" 
+22:45:31 **** Incremental Build of configuration Debug for project pattern4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern4.o" "..\\src\\pattern4.c" 
+gcc -o pattern4.exe "src\\pattern4.o" 
+22:46:33 **** Incremental Build of configuration Debug for project pattern4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern4.o" "..\\src\\pattern4.c" 
+gcc -o pattern4.exe "src\\pattern4.o" 
+22:46:58 **** Incremental Build of configuration Debug for project pattern4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern4.o" "..\\src\\pattern4.c" 
+gcc -o pattern4.exe "src\\pattern4.o" 
+22:47:58 **** Incremental Build of configuration Debug for project pattern4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern4.o" "..\\src\\pattern4.c" 
+gcc -o pattern4.exe "src\\pattern4.o" 
+Info: Nothing to build for pattern1
+22:49:33 **** Incremental Build of configuration Debug for project pattern1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern1.o" "..\\src\\pattern1.c" 
+gcc -o pattern1.exe "src\\pattern1.o" 
+22:49:46 **** Incremental Build of configuration Debug for project pattern1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern1.o" "..\\src\\pattern1.c" 
+gcc -o pattern1.exe "src\\pattern1.o" 
+22:50:00 **** Incremental Build of configuration Debug for project pattern1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern1.o" "..\\src\\pattern1.c" 
+gcc -o pattern1.exe "src\\pattern1.o" 
+22:50:17 **** Incremental Build of configuration Debug for project pattern1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern1.o" "..\\src\\pattern1.c" 
+gcc -o pattern1.exe "src\\pattern1.o" 
+22:50:51 **** Incremental Build of configuration Debug for project pattern1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern1.o" "..\\src\\pattern1.c" 
+gcc -o pattern1.exe "src\\pattern1.o" 
+22:51:04 **** Incremental Build of configuration Debug for project pattern1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern1.o" "..\\src\\pattern1.c" 
+gcc -o pattern1.exe "src\\pattern1.o" 
+22:56:29 **** Incremental Build of configuration Debug for project pattern1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern1.o" "..\\src\\pattern1.c" 
+gcc -o pattern1.exe "src\\pattern1.o" 
+22:58:18 **** Incremental Build of configuration Debug for project pattern1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern1.o" "..\\src\\pattern1.c" 
+gcc -o pattern1.exe "src\\pattern1.o" 
+22:58:28 **** Incremental Build of configuration Debug for project pattern1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern1.o" "..\\src\\pattern1.c" 
+gcc -o pattern1.exe "src\\pattern1.o" 
+22:59:25 **** Incremental Build of configuration Debug for project pattern1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern1.o" "..\\src\\pattern1.c" 
+gcc -o pattern1.exe "src\\pattern1.o" 
+23:00:25 **** Incremental Build of configuration Debug for project pattern1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern1.o" "..\\src\\pattern1.c" 
+gcc -o pattern1.exe "src\\pattern1.o" 
+23:01:06 **** Incremental Build of configuration Debug for project pattern1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern1.o" "..\\src\\pattern1.c" 
+gcc -o pattern1.exe "src\\pattern1.o" 
+23:01:15 **** Incremental Build of configuration Debug for project pattern1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern1.o" "..\\src\\pattern1.c" 
+gcc -o pattern1.exe "src\\pattern1.o" 
+23:02:00 **** Incremental Build of configuration Debug for project pattern1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern1.o" "..\\src\\pattern1.c" 
+gcc -o pattern1.exe "src\\pattern1.o" 
+23:02:25 **** Incremental Build of configuration Debug for project pattern1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern1.o" "..\\src\\pattern1.c" 
+gcc -o pattern1.exe "src\\pattern1.o" 
+23:02:51 **** Rebuild of configuration Debug for project pattern2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern2.o" "..\\src\\pattern2.c" 
+gcc -o pattern2.exe "src\\pattern2.o" 
+Info: Nothing to build for pattern1
+23:05:54 **** Incremental Build of configuration Debug for project pattern1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern1.o" "..\\src\\pattern1.c" 
+gcc -o pattern1.exe "src\\pattern1.o" 
+23:06:16 **** Incremental Build of configuration Debug for project pattern1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern1.o" "..\\src\\pattern1.c" 
+gcc -o pattern1.exe "src\\pattern1.o" 
+23:06:45 **** Incremental Build of configuration Debug for project pattern1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern1.o" "..\\src\\pattern1.c" 
+gcc -o pattern1.exe "src\\pattern1.o" 
+23:06:58 **** Incremental Build of configuration Debug for project pattern1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern1.o" "..\\src\\pattern1.c" 
+gcc -o pattern1.exe "src\\pattern1.o" 
+23:09:29 **** Incremental Build of configuration Debug for project pattern1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern1.o" "..\\src\\pattern1.c" 
+gcc -o pattern1.exe "src\\pattern1.o" 
+23:09:54 **** Incremental Build of configuration Debug for project pattern1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern1.o" "..\\src\\pattern1.c" 
+gcc -o pattern1.exe "src\\pattern1.o" 
+23:11:03 **** Incremental Build of configuration Debug for project pattern1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern1.o" "..\\src\\pattern1.c" 
+gcc -o pattern1.exe "src\\pattern1.o" 
+23:11:22 **** Incremental Build of configuration Debug for project pattern1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern1.o" "..\\src\\pattern1.c" 
+gcc -o pattern1.exe "src\\pattern1.o" 
+23:11:36 **** Incremental Build of configuration Debug for project pattern1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern1.o" "..\\src\\pattern1.c" 
+gcc -o pattern1.exe "src\\pattern1.o" 
+Info: Nothing to build for pattern2
+23:13:45 **** Incremental Build of configuration Debug for project pattern2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern2.o" "..\\src\\pattern2.c" 
+gcc -o pattern2.exe "src\\pattern2.o" 
+23:15:53 **** Incremental Build of configuration Debug for project pattern2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern2.o" "..\\src\\pattern2.c" 
+gcc -o pattern2.exe "src\\pattern2.o" 
+23:16:14 **** Incremental Build of configuration Debug for project pattern2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern2.o" "..\\src\\pattern2.c" 
+gcc -o pattern2.exe "src\\pattern2.o" 
+23:16:50 **** Incremental Build of configuration Debug for project pattern2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern2.o" "..\\src\\pattern2.c" 
+gcc -o pattern2.exe "src\\pattern2.o" 
+23:17:09 **** Incremental Build of configuration Debug for project pattern2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern2.o" "..\\src\\pattern2.c" 
+gcc -o pattern2.exe "src\\pattern2.o" 
+23:17:29 **** Incremental Build of configuration Debug for project pattern2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern2.o" "..\\src\\pattern2.c" 
+gcc -o pattern2.exe "src\\pattern2.o" 
+23:18:06 **** Incremental Build of configuration Debug for project pattern2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern2.o" "..\\src\\pattern2.c" 
+gcc -o pattern2.exe "src\\pattern2.o" 
+23:18:21 **** Incremental Build of configuration Debug for project pattern2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern2.o" "..\\src\\pattern2.c" 
+gcc -o pattern2.exe "src\\pattern2.o" 
+23:18:52 **** Incremental Build of configuration Debug for project pattern2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern2.o" "..\\src\\pattern2.c" 
+gcc -o pattern2.exe "src\\pattern2.o" 
+23:19:10 **** Incremental Build of configuration Debug for project pattern2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern2.o" "..\\src\\pattern2.c" 
+gcc -o pattern2.exe "src\\pattern2.o" 
+23:20:24 **** Incremental Build of configuration Debug for project pattern2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern2.o" "..\\src\\pattern2.c" 
+gcc -o pattern2.exe "src\\pattern2.o" 
+23:21:10 **** Incremental Build of configuration Debug for project pattern2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern2.o" "..\\src\\pattern2.c" 
+gcc -o pattern2.exe "src\\pattern2.o" 
+23:22:25 **** Incremental Build of configuration Debug for project pattern2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern2.o" "..\\src\\pattern2.c" 
+gcc -o pattern2.exe "src\\pattern2.o" 
+23:22:38 **** Incremental Build of configuration Debug for project pattern2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern2.o" "..\\src\\pattern2.c" 
+gcc -o pattern2.exe "src\\pattern2.o" 
+23:23:41 **** Incremental Build of configuration Debug for project pattern2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern2.o" "..\\src\\pattern2.c" 
+gcc -o pattern2.exe "src\\pattern2.o" 
+23:24:40 **** Incremental Build of configuration Debug for project pattern2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern2.o" "..\\src\\pattern2.c" 
+gcc -o pattern2.exe "src\\pattern2.o" 
+23:25:41 **** Incremental Build of configuration Debug for project pattern2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern2.o" "..\\src\\pattern2.c" 
+gcc -o pattern2.exe "src\\pattern2.o" 
+23:25:54 **** Incremental Build of configuration Debug for project pattern2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern2.o" "..\\src\\pattern2.c" 
+gcc -o pattern2.exe "src\\pattern2.o" 

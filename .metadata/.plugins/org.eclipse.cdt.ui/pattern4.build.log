@@ -1,1 +1,7 @@
-Info: Nothing to build for pattern4
+22:47:58 **** Incremental Build of configuration Debug for project pattern4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern4.o" "..\\src\\pattern4.c" 
+gcc -o pattern4.exe "src\\pattern4.o" 
+
+22:47:58 Build Finished. 0 errors, 0 warnings. (took 777ms)
+
