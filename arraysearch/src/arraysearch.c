@@ -13,7 +13,8 @@
 
 int main(void) {
 	int limit,i,array[100],flag=0,search;
-	
+	setbuf(stdout,NULL);
+
 	printf("Enter a limit\n");
 	scanf("%d",&limit);
 	printf("Enter values:\n");
@@ -24,7 +25,7 @@ int main(void) {
 	for(i=0;i<limit;i++){
 		printf("%d ",array[i]);
 	}
-	printf("Enter search value\n");
+	printf("\nEnter search value\n");
 	scanf("%d",&search);
 
 	for(i=0;i<limit;i++){

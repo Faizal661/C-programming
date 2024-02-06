@@ -1,6 +1,6 @@
 /*
  ============================================================================
- Name        : c.c
+ Name        : array-input&output.c
  Author      : 
  Version     :
  Copyright   : Your copyright notice
@@ -12,23 +12,18 @@
 #include <stdlib.h>
 
 int main(void) {
-	int limit,i,array[100],sum=0;
+	int a[100],i,limit;
 	setbuf(stdout,NULL);
-	printf("Enter a limit\n");
+	printf("Enter limit of the array");
 	scanf("%d",&limit);
-	printf("Enter values:\n");
+	printf("Enter %d numbers:\n",limit);
 	for(i=0;i<limit;i++){
-		scanf("%d",&array[i]);
+		scanf("%d",&a[i]);
 	}
-	printf("Values are \n");
+	printf("Array values are:\n");
 	for(i=0;i<limit;i++){
-		printf("%d ",array[i]);
+		printf("%d ",a[i]);
 	}
-	printf("\n sum of array:");
-	for(i=0;i<limit;i++){
-		sum=sum+array[i];
-	}
-	printf("%d",sum);
 
 	return EXIT_SUCCESS;
 }

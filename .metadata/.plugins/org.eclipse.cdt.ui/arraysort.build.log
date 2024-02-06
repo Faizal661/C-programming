@@ -1,7 +1,7 @@
-21:04:27 **** Rebuild of configuration Debug for project arraysort ****
+04:36:37 **** Incremental Build of configuration Debug for project arraysort ****
 Info: Internal Builder is used for build
 gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\arraysort.o" "..\\src\\arraysort.c" 
 gcc -o arraysort.exe "src\\arraysort.o" 
 
-21:04:27 Build Finished. 0 errors, 0 warnings. (took 833ms)
+04:36:37 Build Finished. 0 errors, 0 warnings. (took 782ms)
 

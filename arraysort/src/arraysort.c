@@ -13,17 +13,17 @@
 
 int main(void) {
 	int limit,i,j,array[100],temp;
+	setbuf(stdout,NULL);
 	printf("Enter a limit\n");
 	scanf("%d",&limit);
 	printf("Enter values:\n");
 	for(i=0;i<limit;i++){
 		scanf("%d",&array[i]);
 	}
-	printf("Values are \n");
+	printf("Values are :");
 	for(i=0;i<limit;i++){
 		printf("%d ",array[i]);
 	}
-	printf("Sorted array:\n");
 	for(i=0;i<limit-1;i++){
 		for(j=i+1;j<limit;j++){
 			if(array[j]<array[i]){
@@ -35,7 +35,7 @@ int main(void) {
 			}
 		}
 	}
-	printf("Sorted array:\n");
+	printf("\nSorted array:");
 		for(i=0;i<limit;i++){
 			printf("%d ",array[i]);
 		}
