@@ -1,60 +1,14 @@
-03:59:57 **** Rebuild of configuration Debug for project arraysum.c ****
+22:10:02 **** Rebuild of configuration Debug for project assignment-day5-3 ****
 Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\arraysum.c.o" "..\\src\\arraysum.c.c" 
-gcc -o arraysum.c.exe "src\\arraysum.c.o" 
-Info: Nothing to build for arraysum.c
-Info: Nothing to build for arraysum.c
-04:01:43 **** Incremental Build of configuration Debug for project arraysum.c ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assignment-day5-3.o" "..\\src\\assignment-day5-3.c" 
+gcc -o assignment-day5-3.exe "src\\assignment-day5-3.o" 
+Info: Nothing to build for assignment-day5-3
+22:10:32 **** Incremental Build of configuration Debug for project assignment-day5-3 ****
 Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\arraysum.c.o" "..\\src\\arraysum.c.c" 
-gcc -o arraysum.c.exe "src\\arraysum.c.o" 
-04:05:43 **** Rebuild of configuration Debug for project arraysearch ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\arraysearch.o" "..\\src\\arraysearch.c" 
-gcc -o arraysearch.exe "src\\arraysearch.o" 
-04:06:16 **** Incremental Build of configuration Debug for project arraysearch ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\arraysearch.o" "..\\src\\arraysearch.c" 
-gcc -o arraysearch.exe "src\\arraysearch.o" 
-Info: Nothing to build for arraysearch
-04:12:54 **** Incremental Build of configuration Debug for project arraysearch ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\arraysearch.o" "..\\src\\arraysearch.c" 
-..\src\arraysearch.c: In function 'main':
-..\src\arraysearch.c:15:25: warning: unused variable 'flag' [-Wunused-variable]
-   15 |  int limit,i,array[100],flag=0,search;
-      |                         ^~~~
-gcc -o arraysearch.exe "src\\arraysearch.o" 
-Info: Nothing to build for arraysearch
-Info: Nothing to build for arraysearch
-04:15:04 **** Incremental Build of configuration Debug for project arraysearch ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\arraysearch.o" "..\\src\\arraysearch.c" 
-gcc -o arraysearch.exe "src\\arraysearch.o" 
-Info: Nothing to build for arraysearch
-04:16:11 **** Rebuild of configuration Debug for project arraysort ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\arraysort.o" "..\\src\\arraysort.c" 
-gcc -o arraysort.exe "src\\arraysort.o" 
-04:16:54 **** Incremental Build of configuration Debug for project arraysort ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\arraysort.o" "..\\src\\arraysort.c" 
-gcc -o arraysort.exe "src\\arraysort.o" 
-04:17:32 **** Incremental Build of configuration Debug for project arraysort ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\arraysort.o" "..\\src\\arraysort.c" 
-gcc -o arraysort.exe "src\\arraysort.o" 
-04:18:12 **** Incremental Build of configuration Debug for project arraysort ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\arraysort.o" "..\\src\\arraysort.c" 
-gcc -o arraysort.exe "src\\arraysort.o" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assignment-day5-3.o" "..\\src\\assignment-day5-3.c" 
+gcc -o assignment-day5-3.exe "src\\assignment-day5-3.o" 
 Info: Nothing to build for arraysort
-Info: Nothing to build for arraysort
-04:35:59 **** Incremental Build of configuration Debug for project arraysort ****
+22:13:27 **** Incremental Build of configuration Debug for project assignment-day5-3 ****
 Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\arraysort.o" "..\\src\\arraysort.c" 
-gcc -o arraysort.exe "src\\arraysort.o" 
-04:36:37 **** Incremental Build of configuration Debug for project arraysort ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\arraysort.o" "..\\src\\arraysort.c" 
-gcc -o arraysort.exe "src\\arraysort.o" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assignment-day5-3.o" "..\\src\\assignment-day5-3.c" 
+gcc -o assignment-day5-3.exe "src\\assignment-day5-3.o" 
