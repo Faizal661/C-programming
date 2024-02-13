@@ -12,6 +12,21 @@
 #include <stdlib.h>
 
 int main(void) {
-	puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
+	float mark;
+	setbuf(stdout,NULL);
+	printf("Enter your mark:");
+	scanf("%f",&mark);
+	if(mark<50){
+		printf("FAILED");
+
+	}
+	else if(mark>=50 && mark<=100){
+		printf("PASSED");
+
+	}
+	else{
+		printf("Enter correct mark");
+
+	}
 	return EXIT_SUCCESS;
 }

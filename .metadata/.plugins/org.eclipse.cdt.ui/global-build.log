@@ -1,14 +1,19 @@
-22:10:02 **** Rebuild of configuration Debug for project assignment-day5-3 ****
+04:45:01 **** Rebuild of configuration Debug for project assignment-day3-3 ****
 Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assignment-day5-3.o" "..\\src\\assignment-day5-3.c" 
-gcc -o assignment-day5-3.exe "src\\assignment-day5-3.o" 
-Info: Nothing to build for assignment-day5-3
-22:10:32 **** Incremental Build of configuration Debug for project assignment-day5-3 ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assignment-day3-3.o" "..\\src\\assignment-day3-3.c" 
+gcc -o assignment-day3-3.exe "src\\assignment-day3-3.o" 
+Info: Nothing to build for assignment-day3-3
+04:45:54 **** Incremental Build of configuration Debug for project assignment-day3-3 ****
 Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assignment-day5-3.o" "..\\src\\assignment-day5-3.c" 
-gcc -o assignment-day5-3.exe "src\\assignment-day5-3.o" 
-Info: Nothing to build for arraysort
-22:13:27 **** Incremental Build of configuration Debug for project assignment-day5-3 ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assignment-day3-3.o" "..\\src\\assignment-day3-3.c" 
+gcc -o assignment-day3-3.exe "src\\assignment-day3-3.o" 
+Info: Nothing to build for assignment-day3-3
+Info: Nothing to build for assignment-day3-3
+Info: Nothing to build for assignment-day3-3
+Info: Nothing to build for assignment-day3-3
+Info: Nothing to build for assignment-day3-3
+04:46:48 **** Incremental Build of configuration Debug for project assignment-day3-3 ****
 Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assignment-day5-3.o" "..\\src\\assignment-day5-3.c" 
-gcc -o assignment-day5-3.exe "src\\assignment-day5-3.o" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assignment-day3-3.o" "..\\src\\assignment-day3-3.c" 
+gcc -o assignment-day3-3.exe "src\\assignment-day3-3.o" 
+Info: Nothing to build for assignment-day3-3
