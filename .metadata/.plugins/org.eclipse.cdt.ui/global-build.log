@@ -1,19 +1,9 @@
-04:45:01 **** Rebuild of configuration Debug for project assignment-day3-3 ****
+03:10:33 **** Rebuild of configuration Debug for project multi-array ****
 Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assignment-day3-3.o" "..\\src\\assignment-day3-3.c" 
-gcc -o assignment-day3-3.exe "src\\assignment-day3-3.o" 
-Info: Nothing to build for assignment-day3-3
-04:45:54 **** Incremental Build of configuration Debug for project assignment-day3-3 ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\multi-array.o" "..\\src\\multi-array.c" 
+gcc -o multi-array.exe "src\\multi-array.o" 
+Info: Nothing to build for multi-array
+03:11:22 **** Incremental Build of configuration Debug for project multi-array ****
 Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assignment-day3-3.o" "..\\src\\assignment-day3-3.c" 
-gcc -o assignment-day3-3.exe "src\\assignment-day3-3.o" 
-Info: Nothing to build for assignment-day3-3
-Info: Nothing to build for assignment-day3-3
-Info: Nothing to build for assignment-day3-3
-Info: Nothing to build for assignment-day3-3
-Info: Nothing to build for assignment-day3-3
-04:46:48 **** Incremental Build of configuration Debug for project assignment-day3-3 ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\assignment-day3-3.o" "..\\src\\assignment-day3-3.c" 
-gcc -o assignment-day3-3.exe "src\\assignment-day3-3.o" 
-Info: Nothing to build for assignment-day3-3
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\multi-array.o" "..\\src\\multi-array.c" 
+gcc -o multi-array.exe "src\\multi-array.o" 
