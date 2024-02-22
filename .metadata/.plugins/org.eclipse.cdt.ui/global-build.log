@@ -1,9 +1,22 @@
-03:10:33 **** Rebuild of configuration Debug for project multi-array ****
+21:41:41 **** Rebuild of configuration Debug for project function3.c ****
 Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\multi-array.o" "..\\src\\multi-array.c" 
-gcc -o multi-array.exe "src\\multi-array.o" 
-Info: Nothing to build for multi-array
-03:11:22 **** Incremental Build of configuration Debug for project multi-array ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\function3.c.o" "..\\src\\function3.c.c" 
+gcc -o function3.c.exe "src\\function3.c.o" 
+Info: Nothing to build for function3.c
+21:44:09 **** Incremental Build of configuration Debug for project functio 4 ****
 Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\multi-array.o" "..\\src\\multi-array.c" 
-gcc -o multi-array.exe "src\\multi-array.o" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\functio 4.o" "..\\src\\functio 4.c" 
+gcc -o "functio 4.exe" "src\\functio 4.o" 
+21:44:59 **** Incremental Build of configuration Debug for project functio 4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\functio 4.o" "..\\src\\functio 4.c" 
+gcc -o "functio 4.exe" "src\\functio 4.o" 
+Info: Nothing to build for function3.c
+21:52:34 **** Incremental Build of configuration Debug for project function2.c ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\function2.c.o" "..\\src\\function2.c.c" 
+gcc -o function2.c.exe "src\\function2.c.o" 
+Info: Nothing to build for function2.c
+Info: Nothing to build for function2.c
+Info: Nothing to build for function2.c
+Info: Nothing to build for function2.c
